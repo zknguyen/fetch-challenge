@@ -10,7 +10,6 @@ fetch-challenge
 │   ├── main.py          # FastAPI application with receipt processing logic
 ├── test
 │   ├── test_main.py     # Contains unit tests for the endpoints
-├── fetch-env            # Virtual environment to run the project
 ├── Dockerfile           # Instructions to build a Docker image for the application
 ├── requirements.txt     # Python dependencies required for the project
 └── README.md            # Documentation for the project
